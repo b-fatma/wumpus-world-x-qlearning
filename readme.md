@@ -141,8 +141,7 @@ This will print the learned policy mapping each state to its optimal next state.
 - [`main.py`](main.py): Entry point for training and evaluation.
 - [`WumpusWorld.py`](WumpusWorld.py): Environment and reward table logic.
 - [`QLearning.py`](QLearning.py): Q-learning agent implementation.
-- [`main.tex`](main.tex): Original report in LaTeX.
-- `.gitignore`: Ignore Python cache files.
+
 
 ## References
 
